@@ -137,21 +137,3 @@ This analysis provided AtliQ Grands with:
 ✔ Clear visibility into hotel performance
 ✔ Data-backed strategies to improve revenue
 ✔ Actionable insights to remain competitive in the hospitality market
-
----
-
-## 🚀 Future Scope
-
-* Build an interactive **Power BI / Tableau dashboard**
-* Automate data updates
-* Apply **predictive analytics** for demand forecasting
-
----
-
-⭐ **If you found this project useful, consider giving it a star!**
-
-Let me know if you want:
-
-* A **short README version**
-* A **resume-friendly project description**
-* A **LinkedIn post** for this project
