@@ -1,6 +1,3 @@
-Here’s a **clean, professional, GitHub-ready `README.md`** for your project. You can directly copy-paste this into your repository.
-
----
 
 # 🏨 AtliQ Grand Hotel Data Analysis
 
@@ -58,7 +55,6 @@ All datasets are available in the **`/datasets`** folder:
 * Standardized date formats
 * Merged multiple datasets into a unified structure
 
-📸 *(Screenshots: Data Cleaning & Transformation)*
 
 ---
 
@@ -68,7 +64,7 @@ All datasets are available in the **`/datasets`** folder:
 * Weekday vs weekend booking comparison
 * Revenue contribution by city
 
-📸 *(Screenshots: EDA & Visualizations)*
+
 
 ---
 
@@ -79,7 +75,7 @@ All datasets are available in the **`/datasets`** folder:
 * Discovered **peak booking periods**
 * Found opportunities to improve occupancy
 
-📸 *(Screenshots: Key Insights)*
+
 
 ---
 
@@ -106,7 +102,7 @@ The data flows through the following pipeline:
 
    * Jupyter Notebook using Pandas
 
-📸 *(Screenshot: Data Pipeline)*
+
 
 ---
 
